@@ -4,7 +4,7 @@ Object-oriented programming (IS-110) & Data communication & operating system (IS
 
 ### About
 
-This is a repo for the projects and tasks for the subject IS-110 as well as for the subject IS-105.
+This is a repo for the projects and tasks for the subject IS-110 as well as for the subject IS-105
 
 
 
@@ -20,9 +20,9 @@ careful with the git submodules!
 
 Free Open Source Code!
 
-Any code used kindly refer to the original source [original repo url].
+Any code used kindly refer to the original source [original repo url]
 
-Any questions or concerns kindly get in contact via my e-mail address [vncliffy@outlook.com] or write an issue on the repo.
+Any questions or concerns kindly get in contact via my e-mail address [vncliffy@outlook.com] or write an issue on the repo
 
 ### Chill & Welcome!
 
