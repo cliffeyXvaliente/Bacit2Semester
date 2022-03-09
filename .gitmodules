@@ -1,0 +1,6 @@
+[submodule "IS-110"]
+	path = IS-110
+	url = https://github.com/cliffeyXvaliente/IS-110.git
+[submodule "IS-105"]
+	path = IS-105
+	url = https://github.com/cliffeyXvaliente/IS-105.git
